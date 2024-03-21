@@ -128,6 +128,11 @@
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Django-Encuesta-App)](https://github.com/SkyPioneerX/Django-Encuesta-App)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Sistema-biblioteca)](https://github.com/SkyPioneerX/Sistema-biblioteca)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Predicci-n-copa-mundial-2022)](https://github.com/SkyPioneerX/Predicci-n-copa-mundial-2022)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Sistema-carrito-de-compras)](https://github.com/SkyPioneerX/Sistema-carrito-de-compras)
 
 <Br>
 <hr>
