@@ -121,6 +121,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Sistema-carrito-de-compras)](https://github.com/SkyPioneerX/Sistema-carrito-de-compras)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Analisis_de-_datos_Hotel)](https://github.com/SkyPioneerX/Analisis_de-_datos_Hotel)
+
 <Br>
 <hr>
 <Br>
