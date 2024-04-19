@@ -112,7 +112,9 @@
 <Br>
 <h1>Algunos de mis proyectos! 🎨</h1>
 <Br>
-  
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Analisis_de-_datos_COVID)](https://github.com/SkyPioneerX/Analisis_de-_datos_COVID)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Django-Encuesta-App)](https://github.com/SkyPioneerX/Django-Encuesta-App)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Sistema-biblioteca)](https://github.com/SkyPioneerX/Sistema-biblioteca)
