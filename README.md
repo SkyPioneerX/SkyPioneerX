@@ -33,6 +33,24 @@
 <Br>
 <hr>
 <Br>
+<h1>Algunos de mis proyectos! 🎨</h1>
+<Br>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Analisis_de-_datos_COVID)](https://github.com/SkyPioneerX/Analisis_de-_datos_COVID)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Django-Encuesta-App)](https://github.com/SkyPioneerX/Django-Encuesta-App)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Sistema-biblioteca)](https://github.com/SkyPioneerX/Sistema-biblioteca)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Predicci-n-copa-mundial-2022)](https://github.com/SkyPioneerX/Predicci-n-copa-mundial-2022)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Sistema-carrito-de-compras)](https://github.com/SkyPioneerX/Sistema-carrito-de-compras)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Analisis_de-_datos_Hotel)](https://github.com/SkyPioneerX/Analisis_de-_datos_Hotel)
+
+<Br>
+<hr>
+<Br>
 <h1>Herramientas que uso! 🛠️</h1>
 <Br>
 
@@ -106,24 +124,6 @@
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
-
-<Br>
-<hr>
-<Br>
-<h1>Algunos de mis proyectos! 🎨</h1>
-<Br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Analisis_de-_datos_COVID)](https://github.com/SkyPioneerX/Analisis_de-_datos_COVID)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Django-Encuesta-App)](https://github.com/SkyPioneerX/Django-Encuesta-App)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Sistema-biblioteca)](https://github.com/SkyPioneerX/Sistema-biblioteca)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Predicci-n-copa-mundial-2022)](https://github.com/SkyPioneerX/Predicci-n-copa-mundial-2022)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Sistema-carrito-de-compras)](https://github.com/SkyPioneerX/Sistema-carrito-de-compras)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Analisis_de-_datos_Hotel)](https://github.com/SkyPioneerX/Analisis_de-_datos_Hotel)
 
 <Br>
 <hr>
