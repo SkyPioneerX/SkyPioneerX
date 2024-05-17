@@ -36,6 +36,8 @@
 <h1>Algunos de mis proyectos! 🎨</h1>
 <Br>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=chatbot-django)](https://github.com/SkyPioneerX/chatbot-django)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Segmentaci-n-y-agrupaci-n-de-Clientes)](https://github.com/SkyPioneerX/Segmentaci-n-y-agrupaci-n-de-Clientes)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyPioneerX&repo=Analisis_de-_datos_COVID)](https://github.com/SkyPioneerX/Analisis_de-_datos_COVID)
