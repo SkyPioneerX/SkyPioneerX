@@ -6,7 +6,7 @@
 <Br>
 <h1>Acerca de mí! 😎</h1>
 
-- 🏫: Soy una estudiante del séptimo ciclo de la carrera de Ingeniería de Sistemas.
+- 🏫: Soy una estudiante del noveno ciclo de la carrera de Ingeniería de Sistemas.
 - 🔭: Actualmente estoy trabajando en muchos proyectos.
 - 🌐: Me interesa especialmente el análisis de datos y el desarrollo de aplicaciones web y móviles, así como la creación de sistemas robustos y escalables que resuelvan problemas reales y mejoren la eficiencia en diferentes áreas.
 - 🚀 Estoy abierto a colaboraciones en proyectos interesantes donde pueda aplicar mis habilidades y aprender de otros desarrolladores. Siempre estoy buscando nuevas oportunidades para crecer y contribuir al mundo de la tecnología.
